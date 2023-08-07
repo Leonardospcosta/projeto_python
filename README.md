@@ -7,11 +7,6 @@
 </br>
 </div>
 
-## Descrição do Projeto
-<p align="justify">
-Este projeto envolve um processo organizado para analisar e processar dados de arquivos HTML e Excel. O processo inclui importar módulos, ler arquivos HTML e Excel, extrair elementos específicos do HTML, limpar e formatar dados, filtrar e unir informações em tabelas, e salvar os resultados em novos arquivos Excel. Esse procedimento é valioso para preparar dados para análises futuras, onde dados limpos e bem formatados são cruciais para obter informações confiáveis.
-</p>
-
 ## Descrição do Código
 <p align="justify">
 O código fornecido é um script estruturado que trata da extração, transformação e carregamento de dados (ETL). Ele começa importando módulos, como o pandas para manipulação de dados, lxml para análise de HTML e re para operações com expressões regulares.
